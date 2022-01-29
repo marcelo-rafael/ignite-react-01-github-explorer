@@ -1,11 +1,11 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react'
 
-import { RepositoryItem } from './RepositoryItem';
+import { RepositoryItem } from './RepositoryItem'
 
 import '../styles/repositories.scss'
 
 export function RepositoryList() {
-  const [repositories, setRepositories] = useState()
+  const [repositories, setRepositories] = useState([])
 
   useEffect(() => {
     fetch('https://api.github.com/users/marcelo-rafael/repos')
@@ -22,7 +22,7 @@ export function RepositoryList() {
           return (
             <RepositoryItem key={repository.name} repository={repository} />
           )
-        })}  
+        })}
       </ul>
     </section>
   )
