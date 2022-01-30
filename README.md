@@ -178,7 +178,7 @@ $ yarn or npm install
 <span># Run Application in Development</span>
 $ yarn dev or npm run start
 
-<span># The application will open at port: 3000 - access http://localhost:3000</span>
+<span># The application will open at port: 8080 - access http://localhost:8080</span>
 </code></pre>
 
 </div>
