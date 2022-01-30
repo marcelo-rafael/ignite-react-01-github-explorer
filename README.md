@@ -165,34 +165,22 @@
 <hr>
 <div>
   <h2>👯 Cloning the repository</h2>
-  <pre>
-    <code>
-      <p>
-        <span># Clone this repository</span>
-        git clone https://github.com/marcelo-rafael/ignite-react-01-github-explorer
-      </p>  
-      <p>
-        <span># Access the project folder in the terminal/cmd</span>
-        cd ignite-react-01-github-explorer
-      </p>
-    </code>
-  </pre>
-  <h3>Running the Application</h3>
-  <pre>
-    <code>
-      <p>
-        <span># install dependencies</span>
-        yarn or npm install
-      </p>
-      <p>
-        <span># Run Application in Development</span>
-        yarn dev or npm run start
-      </p>
-      <p>
-        <span># The application will open at port: 8080 - access http://localhost:3000</span>
-      </p>  
-    </code>
-  </pre>
+<pre><code><span># Clone this repository</span>
+<span>$ git clone https://github.com/marcelo-rafael/ignite-react-01-github-explorer
+
+<span># Access the project folder in the terminal</span>
+<span>$ cd ignite-react-01-github-explorer
+</code></pre>
+<h3>Running the Application</h3>
+<pre><code><span># install dependencies</span>
+$ yarn or npm install
+
+<span># Run Application in Development</span>
+$ yarn dev or npm run start
+
+<span># The application will open at port: 3000 - access http://localhost:3000</span>
+</code></pre>
+
 </div>
 
 <!--==================== COMMANDS ====================-->
