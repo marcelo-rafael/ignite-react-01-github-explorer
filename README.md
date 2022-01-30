@@ -1,149 +1,213 @@
+<!--==================== HERO  ====================-->
 <h4 align="center">
-  <img alt="github-explorer" title="github-explorer" src=".github/cover-reactjs.png" width="700px" height="250" />
+  <img 
+    alt="github-explorer" 
+    title="github-explorer" 
+    src=".github/cover-reactjs.png" 
+    width="700px" 
+    height="250" />
 </h4>
 
- <div align="center">
-    <!-- LICENSE -->
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
-    <!-- LAST COMMIT -->
-    <a href="https://github.com/marcelo-rafael/ignite-reactjs-github-explorer/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/ignite-reactjs-github-explorer?style=for-the-badge&label=last%20commit:&labelColor=5A5A5A&color=0077B5">
-    </a>
-    <!-- STARS -->
-    <a href="https://github.com/marcelo-rafael/ignite-reactjs-github-explorer/stargazers/master">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/marcelo-rafael/ignite-reactjs-github-explorer?style=for-the-badge&label=stars&labelColor=5A5A5A&color=0077B5&logo=github">
-    </a>
-    <!-- FORKS -->
-    <a href="https://github.com/marcelo-rafael/ignite-reactjs-github-explorer/forks/master">
-    <img alt="Forks" src="https://img.shields.io/github/forks/marcelo-rafael/ignite-reactjs-github-explorer?style=for-the-badge&label=forks&labelColor=5A5A5A&color=0077B5&logo=github">
-    </a>
-    <!-- AUTHOR -->
-    <img alt="Author Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/author-Marcelo%20Rafael-informational?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
-    <!-- LANGUAGES -->
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcelo-rafael/ignite-reactjs-github-explorer?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
-    <!-- REPO SIZE -->
-    <img alt="Repo size" src="https://img.shields.io/github/repo-size/marcelo-rafael/ignite-reactjs-github-explorer?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
-    <!-- CONTRIBUTORS -->
-  <img alt="CONTRIBUTORS" src="https://img.shields.io/github/contributors/marcelo-rafael/ignite-reactjs-github-explorer?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+<!--==================== BADGES  ====================-->
+<div align="center">
+  <!-- LICENSE -->
+  <img 
+    alt="License" 
+    src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+  <!-- LAST COMMIT -->
+  <a 
+    href="https://github.com/marcelo-rafael/ignite-react-01-github-explorer/commits/master">
+    <img 
+      alt="GitHub last commit" 
+      src="https://img.shields.io/github/last-commit/marcelo-rafael/ignite-react-01-github-explorer?style=for-the-badge&label=last%20commit:&labelColor=5A5A5A&color=0077B5">
+  </a>
+  <!-- STARS -->
+  <a 
+    href="https://github.com/marcelo-rafael/ignite-react-01-github-explorer/stargazers/master">
+    <img 
+      alt="Stargazers" 
+      src="https://img.shields.io/github/stars/marcelo-rafael/ignite-react-01-github-explorer?style=for-the-badge&label=stars&labelColor=5A5A5A&color=0077B5&logo=github">
+  </a>
+  <!-- FORKS -->
+  <a 
+    href="https://github.com/marcelo-rafael/ignite-react-01-github-explorer/forks/master">
+    <img 
+      alt="Forks" 
+      src="https://img.shields.io/github/forks/marcelo-rafael/ignite-react-01-github-explorer?style=for-the-badge&label=forks&labelColor=5A5A5A&color=0077B5&logo=github">
+  </a>
+  <!-- AUTHOR -->
+  <img 
+    alt="Author Marcelo Rafael Gonçalves" 
+    src="https://img.shields.io/badge/author-Marcelo%20Rafael-informational?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+  <!-- LANGUAGES -->
+  <img 
+    alt="GitHub language count" 
+    src="https://img.shields.io/github/languages/count/marcelo-rafael/ignite-react-01-github-explorer?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+  <!-- REPO SIZE -->
+    <img 
+      alt="Repo size" 
+      src="https://img.shields.io/github/repo-size/marcelo-rafael/ignite-react-01-github-explorer?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+  <!-- CONTRIBUTORS -->
+    <img 
+      alt="CONTRIBUTORS" 
+      src="https://img.shields.io/github/contributors/marcelo-rafael/ignite-react-01-github-explorer?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
 </div>
 
+<!--==================== TITLE  ====================-->
 <hr>
-<p><h1 align="center">
-Github Explorer - Ignite - Trilha React.js
-</h1></p>
-<p align="center">Deployed <a href="https://ignite-reactjs-github-explorer.vercel.app/">here</a>.</p>
+<div>
+  <h1 align="center">
+    Github Explorer - Ignite - Trilha React.js
+  </h1>
+  <p align="center">Deployed 
+    <a href="https://ignite-react-01-github-explorer.vercel.app/">here</a>
+  </p>
+</div>
 
+<!--==================== ABOUT THIS PROJECT  ====================-->
 <hr>
-<h2 id="-computer-about">:computer: About</h2>
-<p>Github Explorer is a web application that lists all user repositories. project developed in the first chapter of Bootcamp Ignite - React.js</p>
+<div>
+  <h2>💻 About</h2>
+  <p>Github Explorer is a web application that lists all user repositories. project developed in the first chapter of Bootcamp Ignite - React.js
+  </p>
+</div>
+
+<!--==================== ABOUT THIS IGNITE  ====================-->
 <hr>
-<h2 id="-what-is-the-ignite-https-rocketseat-com-br-ignite-">🚀 What is the <a href="https://rocketseat.com.br/ignite">Ignite</a>?</h2>
-<p>Program to accelerate your career as a Dev..
-Created to prepare you for the market, developing technical and behavioral skills. Evolve and certify in Elixir, Flutter, React.js or React Native.</p>
+<div>
+  <h2>🚀 What is the<a href="https://rocketseat.com.br/ignite"> Ignite</a>?</h2>
+  <p>Program to accelerate your career as a Dev. Created to prepare you for the     market, developing technical and behavioral skills. Evolve and certify in Elixir, Flutter, React.js or React Native.
+  </p>
+</div>
+
+<!-- ==================== FEATURES  ====================-->
+<!-- <hr>
+<div>
+  <h2>📋 Features</h2>
+  <ul>
+    <li>[x] Sessão de home</li>
+    <li>[x] Sessão sobre</li>
+    <li>[x] Sessão de serviços</li>
+    <li>[x] Sessão de depoimentos</li>
+    <li>[x] Sessão de contacto</li>
+    <li>[x] Botão de agendamento para o WhatsApp.</li>
+    <li>[x] Ícones das redes sociais.</li>
+  </ul>
+</div>  -->
+
+<!-- ==================== LAYOUT  ====================-->
 <hr>
-<!-- 
-#### 📋 Functionalities
+<div>
+  <!-- <h2>🎨 Layout</h4>
+  <p>O layout da aplicação está disponível no Figma:</p>
+  <p>
+    <a href="https://www.figma.com/file/x2gNYqpuVmCZacAoPEeiuv/Origin-Six-(Copy)?node-id=0%3A1">
+    <img alt="Made by marcelo-rafael" src="https://img.shields.io/badge/Acessar Layout-Figma-5965e0?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+    </a>
+  </p>
+  <p>Design feito por 
+    <a href="https://dribbble.com/rebeccagonzalez">Rebecca Gonzalez</a>
+  </p> -->
+  <h2>💻 Web/📱Mobile</h2>
+  <h4 align="center">
+    <img 
+      alt="github-explorer" 
+      title="github-explorer" 
+      src=".github/github-explorer.png" 
+      width="700px" />
+  </h4>
+</div>
 
-- [x] Sessão de home
-- [x] Sessão sobre
-- [x] Sessão de serviços
-- [x] Sessão de depoimentos
-- [x] Sessão de contacto
-- [x] Botão de agendamento para o WhatsApp.
-- [x] Ícones das redes sociais.
+<!--==================== CHALLENGES  ====================-->
+<!-- <hr>
+<div>
+  <h4>⚔️  Desafios para melhorar a aplicação</h4>
+    <ul>
+      <li>[ ] Criar documentação
+      <li>[ ] Gif de exemplo</li>
+      <li>[x] Readme-me incrível</li>
+      <li>[x] Tecnologias usadas</li>
+      <li>[x] Setup do projeto</li>
+      <li>[x] Funcionalidades</li>
+      <li>[ ] Screenshot das páginas</li>
+      <li>[ ] Adicionar favicon</li>
+      <li>[ ] Melhorar estilos</li>
+      <li>[ ] breakpoints - adaptar para outros dispositivos</li>
+      <li>[ ] Mobile First</li>
+      <li>[ ] Trocar cores, fontes e conteúdo</li>
+    </ul>
+</div> -->
 
---- -->
-
-<!-- #### 🎨 Layout
-
-O layout da aplicação está disponível no Figma:
-
-<a href="https://www.figma.com/file/x2gNYqpuVmCZacAoPEeiuv/Origin-Six-(Copy)?node-id=0%3A1">
-  <img alt="Made by marcelo-rafael" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
-
-Design feito por [Rebecca Gonzalez](https://dribbble.com/rebeccagonzalez)
-
---- -->
-<h2 id="-computer-web-mobile">:computer:  Web/mobile</h2>
-<h4 align="center">
-  <img alt="github-explorer" title="github-explorer" src=".github/github-explorer.png" width="700px" />
-</h4>
-
-<!-- #### 📱 Mobile
-
-<h4 align="center">
-  <img alt="beautySalon" title="beautySalon" src=".github/home-mobile.png" width="400px" />
-  <p align="center">Tela inicial - OriginSix<p>
-</h4>
---- -->
-<!-- #### :crossed_swords: Desafios para melhorar a aplicação
-- [ ] Criar documentação
-    - [ ] Gif de exemplo
-    - [x] Readme-me incrível
-    - [x] Tecnologias usadas
-    - [x] Setup do projeto
-    - [x] Funcionalidades
-    - [ ] Screenshot das páginas
-    - [ ] Adicionar favicon
- - [ ] Melhorar estilos
-    - [ ] breakpoints - adaptar para outros dispositivos
-    - [ ] Mobile First
-    - [ ] Trocar cores, fontes e conteúdo
- -->
- <!--==================== TECH STACK  ====================-->
+<!--==================== TECH STACK  ====================-->
 <hr>
-<section id="-rocket-tech-stack">
+<div>
   <h2>🚀 Tech Stack</h2>
   <p>The following tools were used in the construction of the project:</p>
   <ul>
     <li><strong><a href="https://pt-br.reactjs.org/">React</a></strong></li>
     <li><strong><a href="https://www.typescriptlang.org/">TypeScript</a></strong></li>
-    <li><strong><a href="https://styled-components.com/">Styled-Components</a></strong></li>
+    <li><strong><a href="https://sass-lang.com/">Sass</a></strong></li>
+    <li><strong><a href="https://webpack.js.org/">webpack</a></strong></li>
+    <li><strong><a href="https://babeljs.io/">Babel</a></strong></li>
   </ul>
-
   <hr>
-
-  <h2 id="-how-to-run-the-project">🚀 How to run the project</h2>
-  <h3 id="prerequisites">Prerequisites</h3>
-  <p>Have an editor to work with the code like 
+  <h2>How to run the project</h2>
+  <h3>Prerequisites</h3>
+  <p>Before starting, you will need to have the following tools installed on your     machine:
+    <a href="https://git-scm.com">Git</a>, 
+    <a href="https://nodejs.org/en/">Node.js</a>.
+  Have an editor to work with the code like 
     <a href="https://code.visualstudio.com/">VSCode</a>
   </p>
-</section>
+</div>
+
 <!--==================== CLONING THE REPOSITORY ====================-->
 <hr>
-<section id="-cloning-the-repository">
+<div>
   <h2>👯 Cloning the repository</h2>
-  <pre><code class="lang-bash"><span class="hljs-comment"># Clone this repository</span>
-  $ git <span class="hljs-keyword">clone</span> <span class="hljs-title">https</span>://github.com/marcelo-rafael/ignite-reacts-github-explorer
+  <pre>
+    <code>
+      <p>
+        <span># Clone this repository</span>
+        git clone https://github.com/marcelo-rafael/ignite-react-01-github-explorer
+      </p>  
+      <p>
+        <span># Access the project folder in the terminal/cmd</span>
+        cd ignite-react-01-github-explorer
+      </p>
+    </code>
+  </pre>
+  <h3>Running the Application</h3>
+  <pre>
+    <code>
+      <p>
+        <span># install dependencies</span>
+        yarn or npm install
+      </p>
+      <p>
+        <span># Run Application in Development</span>
+        yarn dev or npm run start
+      </p>
+      <p>
+        <span># The application will open at port: 8080 - access http://localhost:3000</span>
+      </p>  
+    </code>
+  </pre>
+</div>
 
-<span class="hljs-comment"># Access the project folder in the terminal/cmd</span>
-$ cd oignite-reacts-github-explorer
-</code></pre>
-
-  <h3 id="running-the-application">Running the Application</h3>
-  <pre><code class="lang-bash"><span class="hljs-comment"># install dependencies</span>
-  $ yarn <span class="hljs-keyword">or</span> <span class="hljs-built_in">npm</span> install
-
-<span class="hljs-comment"># Run Application in Development</span>
-$ yarn dev <span class="hljs-keyword">or</span> <span class="hljs-built_in">npm</span> run start
-
-<span class="hljs-comment"># The application will open at port: 8080 - access http://localhost:3000</span>
-</code></pre>
-
-</section>
 <!--==================== COMMANDS ====================-->
 <hr>
-<section id="-commands">
+<div>
   <h2>🔎 Commands</h2>
   <ul>
     <li><code>dev</code>: runs your application on <code>localhost:8080</code></li>
     <li><code>build</code>: creates the production build version</li>
   </ul>
-</section>
+</div>
+
 <!--==================== CONTRIBUTE TO THE PROJECT ====================-->
 <hr>
-<section id="-how-to-contribute-to-the-project"">
+<div>
   <h2>💪 How to contribute to the project</h2>
   <ol>
     <li>🍴 Fork the project.</li>
@@ -160,10 +224,11 @@ $ yarn dev <span class="hljs-keyword">or</span> <span class="hljs-built_in">npm<
       </a>
     </p>
   </blockquote>
-</section>
+</div>
+
 <!--==================== AUTHOR ====================-->
 <hr>
-<section id="-autor">
+<div>
   <h2>🤓 Author</h2>
   <p>
     <img 
@@ -187,15 +252,15 @@ $ yarn dev <span class="hljs-keyword">or</span> <span class="hljs-built_in">npm<
         alt="Made by Marcelo Rafael Gonçalves" 
         src="https://img.shields.io/badge/-Github-0077B5?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/marcelo-rafael" />
     </a>
+  </div>
 </div>
-</section>
 
 <!--==================== LICENSE ====================-->
 <hr>
-<section id="-license">
+<div>
   <h2>📝 LICENSE</h2>
   <p>This repository is licensed under the <strong>MIT LICENSE</strong>. For more detailed information, read the <a href="./LICENSE">LICENSE</a> file contained in this repository.</p>
   <h3 align="center">
   Made with ❤️ by <a href="https://www.linkedin.com/in/marcelo-rafael-goncalves/">Marcelo Rafael Gonçalves 💜🚀</a>
   </h3>
-</section>
+</div>
